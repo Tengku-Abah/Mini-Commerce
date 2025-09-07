@@ -96,5 +96,7 @@ npm run dev
 - **Port konflik**: Pastikan port 3000 dan 8000 tidak digunakan aplikasi lain
 
 ## 📞 Bantuan
+Wa ke Tengku Muhamad Afif Alghomidy
+instagram tengkuafif.04
 
 Jika ada pertanyaan, silakan buat issue di repository.
