@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
+**/node_modules/
+
 vendor/
+**/vendor/
 
 # Environment variables
 .env
@@ -46,6 +49,7 @@ jspm_packages/
 
 # next.js build output
 .next
+**/.next/
 
 # Nuxt.js build output
 .nuxt
